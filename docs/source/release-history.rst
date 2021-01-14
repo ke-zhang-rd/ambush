@@ -2,5 +2,8 @@
 Release History
 ===============
 
-Initial Release (YYYY-MM-DD)
-----------------------------
+v0.0.1 (YYYY-MM-DD)
+-------------------
+
+- Initial Release
+- Add ``detector()`` methods
