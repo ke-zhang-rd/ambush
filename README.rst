@@ -19,9 +19,9 @@ Features
 
 **Example:**
 
-.. code:: python
-  :caption: main.py
-  :linenos:
+.. code-block:: python
+   :caption: main.py
+   :linenos:
 
   from sub import Member
 
