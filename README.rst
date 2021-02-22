@@ -19,7 +19,7 @@ Features
 
 **Example:**
 
-.. code:: python
+.. code-block:: python
   :caption: main.py
   :lineos:
 
@@ -40,7 +40,7 @@ Features
   p = Primary()
   p.foo()
 
-.. code:: python
+.. code-block:: python
   :caption: sub.py
   :linenos:
 
