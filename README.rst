@@ -20,11 +20,10 @@ Features
 **Example:**
 
 .. code-block:: python
-  :caption: main.py
   :lineos:
 
+  # main.py
   from sub import Member
-
 
   class Primary:
 
@@ -41,11 +40,10 @@ Features
   p.foo()
 
 .. code-block:: python
-  :caption: sub.py
   :linenos:
 
+  # sub.py
   class Member:
-
 
       def bar(self):
           from ambush import detector
